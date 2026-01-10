@@ -6,6 +6,7 @@ import { Label } from "./design-system/label";
 import { useApp } from "../context/AppContext";
 import { toast } from "sonner";
 const ApplyModal = ({ job, isOpen, onClose }) => {
+  // waa qeybta xogta laga soo qaato context-ka
   const { applyForJob } = useApp();
   const [resume, setResume] = useState("");
   const [coverLetter, setCoverLetter] = useState("");

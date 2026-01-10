@@ -2,8 +2,9 @@ import React from "react";
 import { Card, CardContent } from "../components/design-system/card";
 import { Target, Eye, Award, Users, Briefcase, TrendingUp } from "lucide-react";
 import { motion } from "framer-motion";
-function AboutPage() {
-  const values = [
+function AboutPage() { 
+  // waxa halkaan ku abuure values iyo stats oo ah xogta aan ku soo bandhigi doono bogga About.
+  const values = [ 
     {
       icon: Target,
       title: "Our Mission",
