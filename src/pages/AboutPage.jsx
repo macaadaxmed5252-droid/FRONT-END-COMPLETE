@@ -5,6 +5,7 @@ import { motion } from "framer-motion";
 function AboutPage() { 
   // waxa halkaan ku abuure values iyo stats oo ah xogta aan ku soo bandhigi doono bogga About.
   const values = [ 
+    // wwww
     {
       icon: Target,
       title: "Our Mission",
