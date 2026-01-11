@@ -124,7 +124,7 @@ function ContactPage() {
         type: "email",
         value: formData.email,
         onChange: handleChange,
-        className: "bg-gray-50 dark:bg-gray-900 border-gray-200 dark:border-gray-700 focus:ring-2 focus:ring-indigo-500",
+        className: "bg-gray-55 dark:bg-gray-950 border-gray-200 dark:border-gray-700 focus:ring-2 focus:ring-indigo-500",
         placeholder: "john@example.com",
         required: true
       }
@@ -145,7 +145,7 @@ function ContactPage() {
         name: "subject",
         value: formData.subject,
         onChange: handleChange,
-        className: "bg-gray-50 dark:bg-gray-900 border-gray-200 dark:border-gray-700 focus:ring-2 focus:ring-indigo-500",
+        className: "bg-gray-55 dark:bg-gray-900 border-gray-200 dark:border-gray-700 focus:ring-2 focus:ring-indigo-500",
         placeholder: "How can we help?",
         required: true
       }
