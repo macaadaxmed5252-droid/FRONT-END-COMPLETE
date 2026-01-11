@@ -124,8 +124,8 @@ function AboutPage() {
       <section className="py-20 relative bg-indigo-900 text-white overflow-hidden">
         <div className="max-w-7xl mx-auto px-4 relative z-10">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold mb-4">Our Impact</h2>
-            <p className="text-indigo-200 text-xl">Making a tangible difference in the Somali job market</p>
+            <h2 className="text-5xl font-bold mb-4">Our Impact</h2>
+            <p className="text-indigo-200 text-2xl">Making a tangible difference in the Somali job market</p>
           </div>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-12">
             {stats.map((stat, index) => (
