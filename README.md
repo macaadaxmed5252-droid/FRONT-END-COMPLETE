@@ -13,7 +13,7 @@ A modern, responsive job portal application built with React, TypeScript, and Vi
 ## Tech Stack
 
 - **Framework**: React 18
-- **Language**: TypeScript
+- **Language**: JavaScript
 - **Build Tool**: Vite
 - **Styling**: Tailwind CSS
 - **State Management**: Redux Toolkit
